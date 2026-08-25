@@ -78,8 +78,6 @@ To improve spatial equity in healthcare access, policymakers and healthcare plan
 
 * 🏥 **Establishing new healthcare facilities** in locations with low accessibility.
 * 🛣️ **Improving road infrastructure** to reduce travel times to existing facilities.
-* 🚑 **Expanding emergency and community-based healthcare services** in underserved communities.
-* 📍 **Using geospatial accessibility analysis** to guide future healthcare investments and monitor progress toward equitable access.
 
 ---
 
